@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do a great stuff. Here We further more upgraded our WordCount project.We have added the sorted function to give us the result in order li
+**In this project We will use Spark with Python to do a great stuff. Here We further more upgraded our WordCount project.We have added the sorted function to give us the result in order
 like in first it will show the least occuring word and then as we go down we will get the word its increasing count of occurences using our amazing spark**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
